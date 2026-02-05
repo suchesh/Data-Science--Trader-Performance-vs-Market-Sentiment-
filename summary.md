@@ -10,6 +10,8 @@ Two datasets were used: the Bitcoin Fear & Greed Index and historical trade-leve
 Hyperliquid. Both datasets were cleaned, validated, and aligned at a daily level.
 Key performance and behavioral metrics such as PnL, win rate, trade frequency, and
 position size were engineered and analyzed across sentiment regimes.
+<img width="755" height="727" alt="image" src="https://github.com/user-attachments/assets/48b8fafa-d848-4709-b73c-0da7b95db578" />
+<img width="719" height="730" alt="image" src="https://github.com/user-attachments/assets/4a21e837-6ae7-46a9-a8ca-69acc05b10c2" />
 
 ### Key Insights
 1. **Performance Differences**  
